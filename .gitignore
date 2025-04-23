@@ -1,0 +1,12 @@
+# Python environment folders
+env/
+venv/
+ENV/
+.venv/
+.Python
+
+# Logs and system files
+*.log
+
+# CSV data file
+expenses.csv
